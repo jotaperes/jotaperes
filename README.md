@@ -1,8 +1,10 @@
 Olá, me chamo João Pedro! 
 
-Atualmente, estou estudando Ciência de Dados na Estácio de Sá e estou participando do Bootcamp IGTI com foco em Data Science.
+Atualmente, curso Ciência de Dados e faço estágio em Business Inteligence na Taesa.
 
-Assim, por ora, vou utilizar aqui para colocar os códigos que estou aprendendo por lá, até para que vocês vejam meu progresso e possam me ajudar.
+Estou em busca de aprimoramento na área de análise de dados, através da linguagem python.
+
+Por ora, vou utilizar aqui pra colocar meus aprendizados
 
 Caso desejem me contatar, meu e-mail é "jpedroperes98@gmail.com".
 
