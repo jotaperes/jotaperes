@@ -6,7 +6,6 @@ Estou em busca de aprimoramento na área de análise de dados, através da lingu
 
 Por ora, vou utilizar aqui pra colocar meus aprendizados
 
-Caso desejem me contatar, meu e-mail é "jpedroperes98@gmail.com".
 
 <!---
 jotaperes/jotaperes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
