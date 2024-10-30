@@ -1,10 +1,8 @@
-Olá, me chamo João Pedro! 
+👋 Olá! 
 
-Atualmente, curso Ciência de Dados e faço estágio em Business Inteligence na Taesa.
+Sou Analista de Dados Jr. na Taesa, apaixonado por transformar dados em insights que realmente fazem a diferença. Trabalho com Power BI e Python para análise e visualização, além de ter experiência em projetos de Ciência de Dados usando scikit-learn e Spark. Manjo bem de M e DAX, e curto automatizar processos com Selenium e ferramentas Microsoft.
 
-Estou em busca de aprimoramento na área de análise de dados, através da linguagem python.
-
-Por ora, vou utilizar aqui pra colocar meus aprendizados
+Usando aqui pra registrar meus estudos e ideias.
 
 
 <!---
